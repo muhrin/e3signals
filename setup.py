@@ -1,8 +1,6 @@
 import os
-import re
 
 from setuptools import find_packages, setup
-
 
 # Recommendations from https://packaging.python.org/
 here = os.path.abspath(os.path.dirname(__file__))
